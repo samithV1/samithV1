@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @samithV1
+- 👀 I’m interested in ...Java, flutter, C#
+- 🌱 I’m currently learning ...Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
