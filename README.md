@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samithV1
-- 👀 I’m interested in ...Java, Flutter, C#
+- 👀 I’m interested in ...Java Spring Boot, Flutter,React
 - 🌱 I’m currently learning ...Java, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
